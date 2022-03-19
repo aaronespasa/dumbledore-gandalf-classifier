@@ -1,2 +1,1 @@
-# dumbledore-gandalf-classifier
-Classify images of Dumbledore &amp; Gandalf 🎩
+# Classify images of Dumbledore &amp; Gandalf 🎩
